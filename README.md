@@ -7,6 +7,8 @@ Bu proje, **Lasher** kullanıcı adıyla bilinen Arda'nın en güncel yetenekler
 
 <b>NOT(ÖNEMLİ): Discord durumu yerinde verilerinizin anlık olarak çekilmesi için ve çalışması için bu discord sunucusuna katılın</b> <u>https://discord.gg/dwY8aSbGrx</u>
 
+<u><b> BU PROJE YANLIZCA HTML İLE OLUŞTURULMUŞ BİR KAYNAK KODUDUR EKLEME YAPILABİLİR AMA PROJE DİREKT İZİNSİZ PAYLAŞILAMAZ REACT EKLEMELERİ YAPABİLİRSİNİZ! </b></<u>
+
 ## ✨ Öne Çıkan Özellikler ve Modüller
 
 Bu yapıyı standart bir portföyden ayıran temel dinamikler:
