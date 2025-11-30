@@ -1,4 +1,4 @@
-# 🚀 Lasher | Premium Minimalist Developer Portföyü
+# 🚀 Lasher | Gelişmiş Minimalist Developer Portföyü
 
 [![GitHub Dil Dağılımı](https://img.shields.io/github/languages/top/LasherrR/Lasher-Portfolio-Site?color=6366F1&logo=javascript)](https://github.com/LasherrR)
 [![Lisans](https://img.shields.io/github/license/LasherrR/Lasher-Portfolio-Site?color=EC4899)](https://github.com/LasherrR)
