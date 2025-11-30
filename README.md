@@ -46,7 +46,7 @@ Aşağıdaki alana, sitenizin farklı özelliklerini gösteren 3 görseli ekleye
 
 | Ana Sayfa (Hero & Animasyon) | Hakkımda & Yetenekler | Discord Kartı & Tooltip |
 | :--------------------------: | :-------------------: | :---------------------: |
-| <a href="https://resimlink.com/9J7VSXWsG8w" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/9J7VSXWsG8w.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a> | ![](./img/screenshot_about.png) | ![](./img/screenshot_discord.png) |
+| <a href="https://resimlink.com/9J7VSXWsG8w" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/9J7VSXWsG8w.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a> | <a href="https://resimlink.com/CK08DfMvZLr" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/CK08DfMvZLr.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a> | <a href="https://resimlink.com/FG9Po8T" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/FG9Po8T.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a> |
 
 ***
 *Design by Lasher.*
