@@ -46,7 +46,7 @@ Aşağıdaki alana, sitenizin farklı özelliklerini gösteren 3 görseli ekleye
 
 | Ana Sayfa (Hero & Animasyon) | Hakkımda & Yetenekler | Discord Kartı & Tooltip |
 | :--------------------------: | :-------------------: | :---------------------: |
-| ![https://resimlink.com/9J7VSXWsG8w](./img/screenshot_hero.png) | ![](./img/screenshot_about.png) | ![](./img/screenshot_discord.png) |
+| ![https://resimlink.com/9J7VSXWsG8w](https://resimlink.com/9J7VSXWsG8w) | ![](./img/screenshot_about.png) | ![](./img/screenshot_discord.png) |
 
 ***
 *Design by Lasher.*
