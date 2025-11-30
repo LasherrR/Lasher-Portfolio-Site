@@ -1,7 +1,7 @@
 # 🚀 Lasher | Premium Minimalist Developer Portföyü
 
-[![GitHub Dil Dağılımı](https://img.shields.io/github/languages/top/KULLANICI_ADINIZ/REPO_ADINIZ?color=6366F1&logo=javascript)](https://github.com/KULLANICI_ADINIZ)
-[![Lisans](https://img.shields.io/github/license/KULLANICI_ADINIZ/REPO_ADINIZ?color=EC4899)](https://github.com/KULLANICI_ADINIZ)
+[![GitHub Dil Dağılımı](https://img.shields.io/github/languages/top/LasherrR/Lasher-Portfolio-Site?color=6366F1&logo=javascript)](https://github.com/LasherrR)
+[![Lisans](https://img.shields.io/github/license/LasherrR/Lasher-Portfolio-Site?color=EC4899)](https://github.com/LasherrR)
 
 Bu proje, **Lasher** kullanıcı adıyla bilinen Arda'nın en güncel yeteneklerini ve online kimliğini sergilemek üzere tasarlanmış, tamamen statik (HTML/CSS/Vanilla JS) bir portföy sitesidir. Tasarım, **Dark Mode, Buzlu Cam (Glassmorphism) ve Neon Vurgular** üzerine kuruludur.
 
