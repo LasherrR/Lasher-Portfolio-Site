@@ -5,6 +5,8 @@
 
 Bu proje, **Lasher** kullanıcı adıyla bilinen Arda'nın en güncel yeteneklerini ve online kimliğini sergilemek üzere tasarlanmış, tamamen statik (HTML/CSS/Vanilla JS) bir portföy sitesidir. Tasarım, **Dark Mode, Buzlu Cam (Glassmorphism) ve Neon Vurgular** üzerine kuruludur.
 
+<b>NOT(ÖNEMLİ): Discord durumu yerinde verilerinizin anlık olarak çekilmesi için ve çalışması için bu discord sunucusuna katılın</b> <u>https://discord.gg/dwY8aSbGrx</u>
+
 ## ✨ Öne Çıkan Özellikler ve Modüller
 
 Bu yapıyı standart bir portföyden ayıran temel dinamikler:
