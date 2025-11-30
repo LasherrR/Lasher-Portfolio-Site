@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasher | İletişim</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="grid-overlay"></div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Lasher<span class="dot">.</span></a>
+            <a href="index.html" class="btn-glass">Ana Sayfaya Dön</a>
+        </div>
+    </nav>
+
+    <div id="notification" class="notification-box">
+        <i class="fas fa-check-circle"></i> Mesajınız başarıyla gönderildi!
+    </div>
+
+    <section class="section-padding" style="margin-top: 50px;">
+        <div class="container center-flex">
+            <div class="contact-box fade-in">
+                <h2>Bana Ulaş</h2>
+                <form id="contact-form" action="https://formspree.io/ SİTESİNDE GMAİL HESABI OLUŞTURUP LİNKİ KOPYALAYIN" method="POST">
+                    <input type="text" name="name" placeholder="Adınız" required>
+                    <input type="email" name="email" placeholder="E-Posta Adresiniz" required>
+                    <textarea name="message" rows="4" placeholder="Mesajınız" required></textarea>
+                    <button type="submit">Gönder</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

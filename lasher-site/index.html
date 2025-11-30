@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasher | Developer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <div class="cursor-glow"></div>
+
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="grid-overlay"></div>
+
+<nav class="navbar">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Lasher<span class="dot"></span></a>
+            
+            <ul class="nav-links">
+                <li><a href="#home">Ana Sayfa</a></li>
+                <li><a href="#about">Hakkımda</a></li>
+                <li><a href="#discord">Durum</a></li>
+                <li><a href="projects.html" target="_blank">Projeler <i class="fas fa-external-link-alt" style="font-size:0.7rem"></i></a></li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Linkler <i class="fas fa-angle-down"></i></a>
+                    <div class="dropdown-content">
+                        <a href="https://kick.com/lashertv" target="_blank" class="social-item kick">
+                            <i class="fas fa-bolt"></i> Kick
+                        </a>
+                        <a href="https://open.spotify.com/user/313ejovg2arjbs24hnr2fm67hs6u?si=8653fc46c5c8491b" target="_blank" class="social-item spotify">
+                            <i class="fab fa-spotify"></i> Spotify
+                        </a>
+                        <a href="https://youtube.com/@lasherq?si=PdxtdAAbUdfe3pLr" target="_blank" class="social-item youtube">
+                            <i class="fab fa-youtube"></i> YouTube
+                        </a>
+                        <a href="https://pin.it/1iXmpwaTj" target="_blank" class="social-item pinterest">
+                            <i class="fab fa-pinterest"></i> Pinterest
+                        </a>
+<a href="#" class="social-item steam copy-link" data-copy="1585741616">
+    <i class="fab fa-steam"></i> Steam
+</a>
+                        </a>
+                        <a href="https://github.com/LasherrR" target="_blank" class="social-item github">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                        <div class="divider"></div>
+                        <a href="https://discord.gg/etopya" target="_blank" class="social-item discord-server">
+                            <i class="fab fa-discord"></i> Discord(Etopya)
+                        </a>
+                    </div>
+                </li>
+            </ul>
+
+            <a href="contact.html" target="_blank" class="btn-contact">İletişim</a>
+        </div>
+    </nav>
+
+    <div id="notification" class="notification-box">
+        <i class="fas fa-check-circle"></i> Mesajınız başarıyla gönderildi!
+    </div>
+
+    <section id="home" class="hero">
+        <div class="hero-text fade-in">
+            <h1>
+                <span id="language-text">Merhaba Ben Arda,</span> <br>
+                <span class="gradient-text typewrite" data-period="2000" data-type='[ "Developer.", "Full-Stack." ]'></span>
+                <span class="wrap"></span>
+            </h1>
+            
+            <p>Hayat hikayem, projelerim ve daha fazlası sende gezinmeye başla!</p>
+            <div class="buttons">
+<a href="#about" class="btn-primary"><i class="fas fa-address-card"></i> Beni Tanı</a>
+                <a href="#discord" class="btn-glass"><i class="fab fa-discord"></i> Discord</a>
+            </div>
+        </div>
+    </section>
+
+<section id="about" class="section-padding">
+        <div class="container">
+            
+            <div class="about-minimal-box fade-in">
+                <h2 class="section-header">Hakkımda & <span class="gradient-text">Hayat Hikayem</span></h2>
+                
+                <div class="about-text-simple">
+                    <p>
+                       BURAYA İNFO YAZILACAK 
+                    </p>
+                </div>
+
+                <div class="skills-section">
+                    <div class="tech-chips-wrapper">
+                        
+                        <div class="tech-chip html">
+                            <i class="fab fa-html5"></i>
+                            <span>HTML5</span>
+                        </div>
+
+                        <div class="tech-chip css">
+                            <i class="fab fa-css3-alt"></i>
+                            <span>CSS3</span>
+                        </div>
+
+                        <div class="tech-chip js">
+                            <i class="fab fa-js"></i>
+                            <span>JavaScript</span>
+                        </div>
+
+                        <div class="tech-chip python">
+                            <i class="fab fa-python"></i>
+                            <span>Python</span>
+                        </div>
+
+                        <div class="tech-chip php">
+                            <i class="fab fa-php"></i>
+                            <span>PHP</span>
+                        </div>
+
+                        <div class="tech-chip csharp">
+                            <i class="fas fa-code"></i> <span>C# .NET</span>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    <section id="discord" class="section-padding">
+        <div class="container center-flex">
+            <div class="discord-wrapper fade-in">
+                <div class="discord-card">
+                    <div id="discord-banner" class="banner"></div>
+                    <div class="profile-area">
+                        <div class="avatar-wrapper">
+                            <img id="discord-image" src="https://cdn.discordapp.com/embed/avatars/0.png" alt="Avatar">
+                            <div id="discord-status-indicator" class="status-dot"></div>
+                        </div>
+                        <div class="name-area">
+                            <h3 id="discord-displayname">Yükleniyor...</h3>
+                            <span id="discord-username">@loading</span>
+                        </div>
+                        <div id="discord-badges" class="badges-container"></div>
+                    </div>
+                    <div class="card-content">
+                        <div id="discord-custom-status" class="custom-status"></div>
+                        <div class="activity-box">
+                            <div class="act-header">ŞU AN NE YAPIYOR?</div>
+                            <div id="discord-activity" class="act-body"><p>Veri bekleniyor...</p></div>
+                        </div>
+                        <a href="https://discord.com/users/828873496830279751" target="_blank" class="discord-btn">Profile Git</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Lasher. Designed with code.</p>
+    </footer>
+
+    <div id="link-loader" class="loader-overlay">
+        <div class="loader-content">
+            <div class="spinner"></div>
+            <h3 id="loader-text">Yükleniyor...</h3>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasher | Projeler</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="grid-overlay"></div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Lasher<span class="dot"></span></a>
+            <a href="index.html" class="btn-glass">Ana Sayfaya Dön</a>
+        </div>
+    </nav>
+
+    <section class="section-padding" style="margin-top: 50px;">
+        <div class="container">
+            <h2 class="section-header fade-in">GitHub <span class="gradient-text">Projelerim</span></h2>
+            
+            <div id="loading-spinner" class="spinner-container">
+                <div class="spinner"></div>
+                <p>Projeler GitHub'dan çekiliyor...</p>
+            </div>
+
+            <div id="github-projects" class="bento-grid"></div>
+            
+            <div id="github-btn-container" style="text-align: center; margin-top: 30px; display: none;">
+                <a href="https://github.com/KULLANICI_ADIN" target="_blank" class="btn-primary">
+                    <i class="fab fa-github"></i> Tüm GitHub Profilim
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
