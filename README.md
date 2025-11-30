@@ -46,7 +46,7 @@ Kodun düzgün çalışması için bu değişkenleri kendi bilgilerinizle deği�
 
 ## 🖼️ Proje Görselleri (Screnshots)
 
-Aşağıdaki alana, sitenizin farklı özelliklerini gösteren 3 görseli ekleyebilirsiniz. Görseller, **`img/`** klasörüne yüklenmelidir.
+Aşağıdaki alanda site ile alakalı resimler bulunmaktadır.
 
 | Ana Sayfa (Hero & Animasyon) | Hakkımda & Yetenekler | Discord Kartı & Tooltip |
 | :--------------------------: | :-------------------: | :---------------------: |
